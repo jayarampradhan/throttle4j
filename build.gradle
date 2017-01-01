@@ -19,7 +19,6 @@ configure(allprojects) { project ->
     ext.mockitoVersion              = "2.0.86-beta"
     ext.assertjVersion              = "1.0.0m1"
     ext.springVersion               = "4.3.5.RELEASE"
-    ext.springBootVersion           = "1.4.3.RELEASE"
 
     ext.jerseyVersion               = "2.23.1"
     ext.hibernateValidatorVersion   = "5.3.0.Alpha1"
